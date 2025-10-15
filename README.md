@@ -81,9 +81,4 @@ All cleaning, standardization, and joining were executed as a sequence of SQL Mo
 
 ✅ **Summary:** Successfully implemented an ELT pipeline, handled logical replication setup, performed complex data quality checks (deduplication, standardization, null handling), and integrated data into a unified Snowflake table via Hevo Models.
 
-| Deliverable | Status / Link |
-| :--- | :--- |
-| **GitHub Repo** | Current location |
-| **Hevo Account Details** | [Insert Team Name, Pipeline \#, Model \# here] |
-| **Loom Recording** | [Insert Link to your Loom recording here] |
-| **Transformation Logic** | Contained in Models 1-4 SQL |
+
