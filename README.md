@@ -6,6 +6,8 @@
 
 This repository documents the solution for the Hevo Assessment II, focused on transforming raw, messy e-commerce data into a clean, unified, and analytics-ready dataset. The approach leverages an **ELT (Extract, Load, Transform)** methodology, utilizing **Hevo Data** for ingestion and **Snowflake** as the powerful transformation layer, with all cleaning logic encapsulated in **Hevo Models**.
 
+***NOTE - Please refer to the word document attached which have step by step detail process and the relevant screenshots*****
+
 ---
 
 ## 1. Phase I: Pipeline Setup and Data Ingestion
